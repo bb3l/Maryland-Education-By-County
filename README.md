@@ -71,6 +71,8 @@ After comparing the graduations rates by counties, I realized that some counties
 
 I then decided to get a second dataset to try and see what I can find. After cleaning it, I decided to explore the median household income per county. 
 
+<img width="1229" alt="plot7" src="https://user-images.githubusercontent.com/124946694/235269462-a9ca5ed9-e092-4609-8767-3f150fd10203.PNG">
 
 
-I found a trend! Students from counties with higher median household income have a better chance at graduating from college than those from lower median household income. This could be because of a lot of different reasons, like better school ressources and funding, better environment etc...
+I found somewhat of a trend! Students from counties with higher median household income most likely have a better chance at graduating from college than those from lower median household income. Of course there are always exceptions to everything. Calvert county has the second highest median household but its college graduates percent is on the lower side. 
+These results could be because of a lot of different reasons, like better school ressources and funding, better environment, students moving to different counties to attend school etc...
