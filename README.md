@@ -21,7 +21,9 @@ Which county has the highest percent of highschool graduates ?
 **Data**
 
 Two sets of publicly available data were obtained through data.gov opendata.maryland.gov
--https://catalog.data.gov/dataset/?organization_type=State+Government&organization=state-of-maryland
+
+-https://catalog.data.gov/dataset/choose-maryland-compare-counties-education
+
 -https://opendata.maryland.gov/Demographic/Maryland-Counties-Socioeconomic-Characteristics/is7h-kp6x
 
 I decided to clean the data and visualize the results using R and will be attaching the code. 
