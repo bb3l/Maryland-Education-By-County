@@ -78,3 +78,8 @@ I then decided to get a second dataset to try and see what I can find. After cle
 
 I found somewhat of a trend! Students from counties with higher median household income most likely have a better chance at graduating from college than those from lower median household income. Of course there are always exceptions to everything. Calvert county has the second highest median household but its college graduates percent is on the lower side. 
 These results could be because of a lot of different reasons, like better school ressources and funding, better environment, students moving to different counties to attend school etc...
+There are many variables in determining how good a school system is and there are many ways to measure.
+
+**Further Consideration**
+
+If I wanted to further explore the education system of Maryland, I would look into the additional factors such as population density, school fundings, student teacher ratio etc...
