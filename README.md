@@ -3,18 +3,19 @@
 
 **Background**
 
-A couple and their children are moving to Maryland because the wife got a great job opportunity and are trying to find what county will be best to live in. Their number one concern is education. They have two kids, one will be starting as freshman in high school and the other will be a freshman in college. So, they want to make sure that they pick a county with a great educational system and outcome for their children.
-They approach you with this task and ask if you can help.
+A family with two kids is relocating to Maryland because the wife has a fantastic job offer. They want to find the best county to live in and their top priority is to ensure that their children receive a great education. One child will start high school as a freshman, while the other will begin college. They have approached you for assistance in identifying a county with an excellent educational system and outcomes for their kids.
 
 
 **Objective**
 
-Provide the couple with data that could best help them in their decision.
+Give the couple the most helpful information to aid their decision-making process.
 
 
-**Question that will help guide me:**
-How do the counties compare in terms of graduation rates ?
-Which county has the highest percent of highschool graduates ?
+**Question that could help guide the process:**
+
+How do the counties compare in graduation rates?
+
+Which county has the highest percentage of high school graduates?
 
 
 
@@ -32,7 +33,7 @@ I decided to clean the data and visualize the results using R and will be attach
 
 **Results**
 
-After cleaning and renaming my columns, I decided to generate a simple graph showing the number of high school graduates per counties
+After cleaning and renaming the columns, I decided to generate a simple graph showing the number of high school graduates per county.
 
 This is what it looked like:
 
@@ -40,17 +41,17 @@ This is what it looked like:
 
 
 
-Flipped the coordinate so that the county names don't overlap and are easy to read.
+I flipped the coordinate so that the county names don't overlap and make it easy to read.
 
 <img width="772" alt="plot2" src="https://user-images.githubusercontent.com/124946694/235267682-f3f3d67c-bf2c-4f2e-828a-ceeccdc99665.PNG">
 
 
-Reordered the counties by descending number of garduates.
+I then reordered the counties by descending number of garduates.
 
 <img width="770" alt="plot3" src="https://user-images.githubusercontent.com/124946694/235267754-a1d0c6bb-37d1-4ac1-93e4-aa3cd4a25d53.PNG">
 
 
-Now I got this , but what will it tell the couple ? It would not really help them in making their decision. So I decided to look at graduations percentages to get a better idea. I looked at both the high school and college degree percentage. 
+I have a graph, but it may not be useful for the couple's decision-making process. Therefore, I analyzed graduation percentages to provide them with more valuable information. I examined both high school and college degree percentages to get a better idea.
 
 <img width="767" alt="plot5" src="https://user-images.githubusercontent.com/124946694/235268305-108fc18c-160b-4d32-8007-8ec4052d2120.PNG">
 
@@ -60,14 +61,15 @@ Now let's look at college degree attainment
 
 <img width="770" alt="plot6" src="https://user-images.githubusercontent.com/124946694/235268319-fa5d70b2-fbd8-4357-9ed3-53a37d1697c6.PNG">
 
-Now there's a big difference! The college degree graduation rates will be the main focus as it will better help the couple in solidyfying their choice. 
+There is a significant difference (visually) between the graduation rates. So the focus will now be on college degree graduation rates, as it will assist the couple in making a more informed decision. 
 
-Howard county came out first for most highschool and college graduates. So this will also help someone pick Mongtgomery county over Calvert county if they wanted their child to have a btter chance at graduating college as Montgomery county's rate is almost twice that of Caverlt's. 
+Howard County had the highest number of high school and college graduates, making it the preferred location. Calvert County ranked second in high school graduates and fourteenth in college graduates, which may not be ideal if the goal is for their child to attain a college degree. Therefore, someone may choose Montgomery County over Calvert County to improve their child's chances of graduating from college, as Montgomery County's graduation rate is almost twice that of Calvert's.
 
 
 **What did I find out ?**
 
-After comparing the graduations rates by counties, I realized that some counties have better rates than others, especially for college degrees. One thing that I was curious about was trying to find out if this could be affected by some kind of factor, like economical factor. 
+
+Upon comparing graduation rates by county, it became evident that some counties have higher rates than others, especially for college degrees. One aspect that piqued my curiosity was whether this could be influenced by factors such as economic status.
 
 **What factors play a role in the education system at the county level ?**
 
@@ -76,10 +78,12 @@ I then decided to get a second dataset to try and see what I can find. After cle
 <img width="1229" alt="plot7" src="https://user-images.githubusercontent.com/124946694/235269462-a9ca5ed9-e092-4609-8767-3f150fd10203.PNG">
 
 
-I found somewhat of a trend! Students from counties with higher median household income most likely have a better chance at graduating from college than those from lower median household income. Of course there are always exceptions to everything. Calvert county has the second highest median household but its college graduates percent is on the lower side. 
-These results could be because of a lot of different reasons, like better school ressources and funding, better environment, students moving to different counties to attend school etc...
-There are many variables in determining how good a school system is and there are many ways to measure.
+I discovered a potential trend that students from counties with higher median household income are more likely to graduate from college than those from lower median household income. However, there are always exceptions, as demonstrated by Calvert County, which has the second-highest median household income but a lower percentage of college graduates.
+
+These findings could be attributed to various factors, such as better school resources and funding, a more conducive learning environment, and students relocating to different counties for education purposes.
+
+It is essential to note that many variables affect how effective a school system is, and there are various methods to measure this effectiveness.
 
 **Further Consideration**
 
-If I wanted to further explore the education system of Maryland, I would look into the additional factors such as population density, school fundings, student teacher ratio etc...
+To gain a more in-depth understanding of Maryland's education system, I would investigate additional factors such as population density, school funding, student-teacher ratio, and so on.
