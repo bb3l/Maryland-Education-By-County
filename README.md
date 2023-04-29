@@ -55,7 +55,7 @@ I have a graph, but it may not be useful for the couple's decision-making proces
 
 <img width="767" alt="plot5" src="https://user-images.githubusercontent.com/124946694/235268305-108fc18c-160b-4d32-8007-8ec4052d2120.PNG">
 
-Across the board, it seems like the counties are pretty close when it comes to high school diplomat attainment.
+Across the board, it seems like the counties are pretty close when it comes to high school diplomat attainment, with Howard at the top with 95.5% graduation rate.
 
 Now let's look at college degree attainment
 
@@ -63,7 +63,7 @@ Now let's look at college degree attainment
 
 There is a significant difference (visually) between the graduation rates. So the focus will now be on college degree graduation rates, as it will assist the couple in making a more informed decision. 
 
-Howard County had the highest number of high school and college graduates, making it the preferred location. Calvert County ranked second in high school graduates and fourteenth in college graduates, which may not be ideal if the goal is for their child to attain a college degree. Therefore, someone may choose Montgomery County over Calvert County to improve their child's chances of graduating from college, as Montgomery County's graduation rate is almost twice that of Calvert's.
+Howard County had the highest number of high school (95.5%) and college graduates (61.4%), making it the preferred location. Calvert County ranked second in high school graduates (93.9%) and fourteenth in college graduates (31.5%), which may not be ideal if the goal is for their child to attain a college degree. Therefore, someone may choose Montgomery County (59%) over Calvert County (31.1%) to improve their child's chances of graduating from college, as Montgomery County's graduation rate is almost twice that of Calvert's.
 
 
 **What did I find out ?**
